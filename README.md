@@ -5,7 +5,7 @@ Bem-vindo! Welcome!
   
 	💬 Português brasileiro (Língua mãe)
 	💬 Inglês (Leitura e escrita)
-	📚 2/8 Ciência da Computação/Unisul
+	📚 ADS/IFSC
 	💼 Visite o meu LinkedIn: https://www.linkedin.com/in/guilherme-mendes-de-oliveira-153b53206/
 	💻 Atualmente aprendendo Java
 	📖 Estudando Zabbix e Network Monitoring
@@ -16,7 +16,7 @@ Bem-vindo! Welcome!
   
 	💬 Brazillian portuguese (Mother tongue)
 	💬 English (Reading and writing)
-	📚 2 out of 8 semesters of Computer Science/Unisul
+	📚 System Analysis and Development/IFSC
 	💼 Visit my LinkedIn page: https://www.linkedin.com/in/guilherme-mendes-de-oliveira-153b53206/
 	💻 Actually learning Java
 	📖 Studying Zabbix and Network Monitoring
