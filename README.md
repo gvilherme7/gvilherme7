@@ -1,6 +1,6 @@
 Bem-vindo! Welcome!
 
-🇧🇷 Me chamo Guilherme, tenho 24 anos e trabalho profissionalmente com TI há quase seis anos. Iniciei minha carreira como suporte de software e hoje atuo como analista de monitoramento com foco em Zabbix.
+🇧🇷 Me chamo Guilherme, tenho 24 anos e trabalho profissionalmente com TI há quase seis anos. Iniciei minha carreira como suporte de software, já atuei em monitoramento, desenvolvimento de automações (python, powershell e java) e atualmente atuo como Engenheiro de Confiabilidade de Sites (SRE).
 
   
 	💬 Português brasileiro (Língua mãe)
@@ -10,7 +10,7 @@ Bem-vindo! Welcome!
 	💻 Focado em Python
 	📖 Estudando Análise e Engenharia de Dados
 	
-🇺🇸 My name is Guilherme, I'm 24 years old and I have been working professionally with IT for about six years. Started as software support and today I'm a Monitoring Analyst with emphasis in Zabbix.
+🇺🇸 My name is Guilherme, I'm 24 years old and I have been working professionally with IT for about six years. Started my career as software support, have worked with monitoring tools, automation development (python, powershell and java) and currently work as Site Reliability Engineer (SRE).
 
   
 	💬 Brazillian portuguese (Mother tongue)
