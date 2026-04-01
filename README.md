@@ -1,21 +1,19 @@
-Bem-vindo! Welcome!
+### 🇧🇷 Sobre mim
+Bem-vindo! Me chamo Guilherme, tenho 24 anos e atuo profissionalmente com TI há quase seis anos. Iniciei minha carreira em suporte de software, passei por monitoramento e desenvolvimento de automações (Python, PowerShell e Java), e atualmente sou Site Reliability Engineer (SRE), com forte atuação em ecossistemas como Kubernetes, Zabbix e Grafana.
 
-🇧🇷 Me chamo Guilherme, tenho 24 anos e trabalho profissionalmente com TI há quase seis anos. Iniciei minha carreira como suporte de software, já atuei em monitoramento, desenvolvimento de automações (python, powershell e java) e atualmente atuo como Engenheiro de Confiabilidade de Sites (SRE).
+- 💬 **Idiomas:** Português Brasileiro (Nativo) | Inglês (Proficiente)
+- 📚 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 💼 **Contato:** [Visite o meu LinkedIn](https://www.linkedin.com/in/gmdoliveira/)
+- 💻 **Foco Atual:** Python
+- 📖 **Estudando:** Golang, Inteligência Artificial e Machine Learning
 
-  
-	💬 Português brasileiro (Língua mãe)
-	💬 Inglês (Proficiente)
-	📚 Tecnólogo em Análise e Desenvolvimento de Sistemas
-	💼 Visite o meu LinkedIn: https://www.linkedin.com/in/guilherme-mendes-de-oliveira-153b53206/
-	💻 Focado em Python
-	📖 Estudando Análise e Engenharia de Dados
-	
-🇺🇸 My name is Guilherme, I'm 24 years old and I have been working professionally with IT for about six years. Started my career as software support, have worked with monitoring tools, automation development (python, powershell and java) and currently work as Site Reliability Engineer (SRE).
+---
 
-  
-	💬 Brazillian portuguese (Mother tongue)
-	💬 English (Proficient)
-	📚 Associate's Degree in Systems Development and Analysis
-	💼 Visit my LinkedIn page: https://www.linkedin.com/in/guilherme-mendes-de-oliveira-153b53206/
-	💻 Focused in Python
-	📖 Studying Data Analysis and Engineering
+### 🇺🇸 About me
+Welcome! I'm Guilherme, 24 years old, and I have been working in IT for about six years. I started my career in software support, transitioned to monitoring tools and automation development (Python, PowerShell, and Java), and currently work as a Site Reliability Engineer (SRE) specializing in ecosystems like Kubernetes, Zabbix, and Grafana.
+
+- 💬 **Languages:** Brazilian Portuguese (Native) | English (Proficient)
+- 📚 **Education:** Associate's Degree in Systems Analysis and Development
+- 💼 **Contact:** [Visit my LinkedIn page](https://www.linkedin.com/in/gmdoliveira/)
+- 💻 **Current Focus:** Python
+- 📖 **Studying:** Golang, Artificial Intelligence, and Machine Learning
